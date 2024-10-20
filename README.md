@@ -1,4 +1,3 @@
-Finance Bot
 # Finance Bot
 
 This project is a comprehensive solution for building and interacting with a knowledge graph that integrates and connects information extracted from both textual and visual data. The project leverages Docker for containerization and includes various components such as a crawler, Neo4j database, and multiple Jupyter notebooks for research and development.

@@ -1,0 +1,6 @@
+.env
+.venv
+/data
+/neo4j_db
+__pycache__/
+/output/
